@@ -1,1 +1,1 @@
-Sample File
+This is a sample mvc project
